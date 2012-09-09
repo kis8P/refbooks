@@ -1,1 +1,8 @@
-Reference Books
+Reference Books (refbooks)
+
+A service for searching information in tagged information base.
+
+COMPONENTS
+
+	server.
+	client.
