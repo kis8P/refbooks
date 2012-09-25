@@ -6,13 +6,13 @@
 
 class DB {
 public:
-  DB();
-  ~DB();
+    DB();
+    ~DB();
 
 private:
-  static const std::string DB_FILE_NAME;
+    static const std::string DB_FILE_NAME;
 
-  std::fstream db_file_;
+    std::fstream db_file_;
 };
 
 #endif	// DB_HPP
